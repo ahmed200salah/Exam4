@@ -189,7 +189,7 @@ answer: "المعالج",
                       {
                         numb: 18,
                         question: "نظام التشغيل يعتبر نوعا من انواع؟",
-                        answer: "SoftWare",
+                        answer: "Software",
                           options: [
                             "Software",
                             "Hardware",
